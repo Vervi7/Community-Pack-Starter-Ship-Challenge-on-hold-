@@ -1,4 +1,4 @@
-# Community-Pack-Starter-Ship-Challenge
+# Community-Pack-Starter-Ship-Challenge (on hold)
 
 
 ## Installation Instruction
